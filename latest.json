@@ -1,8 +1,8 @@
 {
   "firmware": {
     "version": "0.3.2",
-    "url": "https://github.com/hoangtalu/Bubu-OTA/raw/refs/heads/main/bubu-c3-0.3.2.ino.bin",
-    "sha256": "2a58be693482427b603c38a8efe5d69a7498f51c19c4f2b3af8e05c4fee3890c",
+    "url": "https://raw.githubusercontent.com/<you>/Bubu-OTA/main/bubu-c3-0.3.2.ino.bin",
+    "sha256": "d5558cd419c8d46bdc958064cb97f963d1ea793866414c025906ec15033512ed",
     "force": 0
   },
   "assets": null,
