@@ -1,10 +1,10 @@
 {
   "firmware": {
-    "version": "0.3.1",
-    "url": "https://raw.githubusercontent.com/hoangtalu/Bubu-OTA/main/firmware/bubu-c3-0.3.1.ino.bin",
-    "sha256": "c169b26c39eb589141b295b9f5316cd74a82a31da4819382aa05064490d2c3c",
+    "version": "0.3.2",
+    "url": "https://raw.githubusercontent.com/hoangtalu/Bubu-OTA/raw/refs/heads/main/bubu-c3-0.3.2.ino.bin",
+    "sha256": "d5558cd419c8d46bdc958064cb97f963d1ea793866414c025906ec15033512ed",
     "force": 0
   },
   "assets": null,
-  "notes": "First OTA test build."
+  "notes": "Auto-OTA test build"
 }
